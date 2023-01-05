@@ -1,5 +1,6 @@
 # Tutorial Ideas
 
 [ ] Mastering PalmOS
-[ ] Mastering iOS
-[ ] Mastering Android
+[ ] Getting the most out of your TRS-80
+[ ] Bridging SwiftUI and Visual Basic
+[ ] Blockchains with BASIC
